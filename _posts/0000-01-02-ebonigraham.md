@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: scrool
+title: "Welcome to our second scroll site!"
 ---
-Your text
-Use the left arrow to go back!
+Your arrow text
+Use the left curved arrow to go back!
